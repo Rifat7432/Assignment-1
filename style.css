@@ -152,7 +152,6 @@ p{
 .there-condition{
     width:500px;
     height: 395px;
-    border-radius: 6px;
 }
 .overview-title{
     width:550px;
@@ -180,7 +179,6 @@ p{
   .instruction{
     width:500px;
     margin: auto;
-    border-radius: 6px;
   }
 .user-info{
     background: rgba(243, 173, 116, 0.541);
