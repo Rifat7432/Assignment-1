@@ -1,7 +1,6 @@
 body{
     font-family: 'Arima', cursive;
     margin:0;
-
 }
 
 
@@ -22,7 +21,6 @@ h4{
 }
 p{
     font-size:15px;
-
 }
 
 .top-banner{
@@ -33,14 +31,12 @@ p{
    background-repeat: no-repeat;
    background-size:cover;
    text-align: center;
-
 }
 .banner-text{
     color: rgb(223, 223, 223);
     margin: auto;
     width:800px;
     padding:150px 20px;
-    
 }
 .donate-button{
   text-decoration: none;
@@ -55,8 +51,6 @@ p{
   outline: 2px solid rgb(24, 33, 37);
   margin-bottom: 40px;;
   font-size: 20px;
-
-   
 }
 .donate-today-container{
     width:100%;
@@ -68,7 +62,6 @@ p{
     text-align: center;
     font-weight: 500;
     margin-top: 100px;
-    
 }
 .money-amount{
     display: inline-block;
@@ -101,16 +94,10 @@ p{
 }
 .donate-box{
     width: 1100px;
-    
-        margin: auto;
-     
-      
-        font-weight: 500;
-        margin-top: 100px;
-        
-    }
-
-
+    margin: auto;
+    font-weight: 500;
+    margin-top: 100px;
+ }
 .title-and-text{
    padding-left: 150px;
    padding-right: 150px;
@@ -124,28 +111,24 @@ p{
 }
 .food{
     background: #c675f5c7;
-   text-align: center;
+    text-align: center;
     border-radius: 6px;
     height:290px;
     padding-top: 83px;
     width: 350px;
     margin-left: 13px;
     display: inline-block;
-
 }
 
 .shelter{
     background: rgba(123, 255, 248, 0.774);
     width: 350px;
     height:290px;
-   text-align: center;
+    text-align: center;
     border-radius: 6px;
     display: inline-block;
     padding-top: 83px;
     margin-left: 13px;
-
- 
-
 }
 
 
@@ -157,7 +140,7 @@ p{
     margin-left: 13px;
     border-radius: 6px;
     text-align: center;
-   display: inline-block;
+    display: inline-block;
 }
 
 .overview{
@@ -169,14 +152,10 @@ p{
 .there-condition{
     width:500px;
     height: 395px;
-  
-   
 }
 .overview-title{
     width:550px;
     display:inline-block;
-
-
 }
 
 .contribute-button{
@@ -192,8 +171,6 @@ p{
     outline: 2px solid rgba(141, 134, 84, 0.753);
     margin-bottom: 40px;;
     font-size: 20px;
-  
-     
   }
   .input-form{
     text-align: center;
@@ -237,7 +214,6 @@ p{
     margin-bottom: 0;
     text-align: center;
     height: 150px;
-    
 }
 
 
