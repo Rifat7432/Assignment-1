@@ -11,9 +11,20 @@ h1{
 }
 h2{
     font-size:50px;
-    font-weight: 600;
+    font-weight: 600;}
+h4{
+    color:tomato;
+    font-size:30px;
+    margin: 0;
+    padding: 20px;
+   
+  
+}
+p{
+    font-size:15px;
 
 }
+
 .top-banner{
    
    background:linear-gradient(rgba(25, 26, 25, 0.11),rgba(0, 0, 0, 0.918)),url('donation4.jpg');
@@ -112,7 +123,7 @@ h2{
 
 }
 .food{
-    background: rgb(228, 108, 10);
+    background: #c675f5c7;
    text-align: center;
     border-radius: 6px;
     height:290px;
@@ -124,7 +135,7 @@ h2{
 }
 
 .shelter{
-    background: rgb(228, 108, 10);
+    background: rgba(123, 255, 248, 0.774);
     width: 350px;
     height:290px;
    text-align: center;
@@ -139,7 +150,7 @@ h2{
 
 
 .medicine{
-    background: rgb(228, 108, 10);
+    background:#e3eb77e3;
     height:368px;
     width: 350px;
     padding-top:10px;
@@ -183,8 +194,49 @@ h2{
   
      
   }
-
-
+  .input-form{
+    text-align: center;
+  }
+  .instruction{
+    width:500px;
+    margin: auto;
+  }
+.user-info{
+    background: rgba(209, 46, 46, 0.541);
+    height:150px;
+    padding-top: 100px;
+    width:1000px;margin: auto;
+}
+.user-info input{
+   height:55px;
+   width: 400px;
+   border: none;
+   outline: none;
+   background: rgb(230, 230, 230);
+   border-radius: 6px;
+   padding-left: 30px;
+}
+.user-info a{
+    height:43px;
+    width: 150px;
+    border: none;
+    outline: none;
+    background:rgba(255, 109, 109, 0.801) ;
+    border-radius: 6px;
+    display: inline-block;
+    padding-top: 17px;
+    text-decoration: none;
+    color: #e6e6e6;
+    text-align: center;
+ }
+.footer{
+    color: #e6e6e6;
+    background: rgb(41, 38, 38);
+    margin-bottom: 0;
+    text-align: center;
+    height: 150px;
+    
+}
 
 
 
